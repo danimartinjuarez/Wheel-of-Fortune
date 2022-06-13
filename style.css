@@ -1,0 +1,54 @@
+body{
+    background-color: #f3f802;
+    border: 1px solid black;
+    width: 97vw;
+    height: 200vw;
+}
+header{
+    width: 94vw;
+    height: 24vw;
+    border: 1px solid black;
+    margin-top: 2vw;
+    margin-left: 1vw;
+
+    
+}
+#screen{
+    width: 94vw;
+    height: 68vw;
+    border: 1px solid black;
+    margin-top: 2vw;
+    margin-left: 1vw;
+
+}
+#controls{
+    width: 94vw;
+    height: 24vw;
+    border: 1px solid black;
+    margin-top: 2vw;
+    margin-left: 1vw;
+}
+#panel{
+    width: 94vw;
+    height: 72vw;
+    border: 1px solid black;
+    margin-top: 2vw;
+    margin-left: 1vw;
+}
+#players{
+    width: 45vw;
+    height: 68vw;
+    border: 1px solid black;
+    display: inline-block;
+    margin-top: 2vw;
+    margin-left: 1vw;
+}
+#options{
+    width: 45vw;
+    height: 68vw;
+    border: 1px solid black;
+    display: inline-block;
+    margin-top: 2vw;
+    float: right;
+    margin-right: 1vw;
+}
